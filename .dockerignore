@@ -1,0 +1,18 @@
+# Root .dockerignore
+node_modules/
+__pycache__/
+*.pyc
+.env.local
+.git/
+.gitignore
+*.md
+.DS_Store
+coverage.xml
+htmlcov/
+.vscode/
+.idea/
+dist/
+build/
+tests/
+*.log
+.coverage
